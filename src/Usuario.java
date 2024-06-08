@@ -12,7 +12,7 @@ public class Usuario {
 		System.out.println();
 		
 		System.out.println("Aparelho telefônico");
-		iphone.ligar(" 98406235");
+		iphone.ligar(" 92222222");
 		iphone.atender();
 		iphone.iniciarCorreioVoz();
 		
